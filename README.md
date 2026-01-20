@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Andy 👋
 
-<!--
-**andymucyo-ops/andymucyo-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me🎓 
+**Education**
+- MSc in Bioinformatics & Computational Biology
+  *University of Fribourg & University of Bern, Switzerland*
 
-Here are some ideas to get you started:
+- BSc in Biochemistry
+ *University of Geneva*
+## Interests
+- Bioinformatics
+- Computational Biology
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, R
+- **Tools:** Git, Jupyter, Bash
+
+## 📊 GitHub Stats
+
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andymucyo-ops&show_icons=true&theme=radical)
+
+## 📫 Get in TouchFeel free to reach out or explore my projects!
