@@ -3,7 +3,7 @@
 ## About Me
 
 🎓 **Education**
-- MSc in Bioinformatics & Computational Biology  
+- Currently pursuing MSc in Bioinformatics & Computational Biology  
   *University of Fribourg & University of Bern, Switzerland*
   
 - BSc in Biochemistry
