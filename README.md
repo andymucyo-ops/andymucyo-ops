@@ -13,10 +13,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andymucyo-ops&layout=compact&theme=radical)
 
-## 📊 GitHub Stats
-
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andymucyo-ops&show_icons=true&theme=radical)
-
 ## 📫 Get in Touch
 
 Feel free to reach out or explore my projects!
