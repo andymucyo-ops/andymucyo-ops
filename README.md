@@ -11,7 +11,7 @@
 
 ## 💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andymucyo-ops)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andymucyo-ops&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 
