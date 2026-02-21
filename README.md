@@ -11,7 +11,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Languages](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ## 📫 Get in Touch
 
