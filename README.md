@@ -11,8 +11,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=andymucyo-ops&theme=algolia&show_icons=true)
-
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=andymucyo-ops)](https://github.com/stats-organization/github-stats-extended)
 ## 📫 Get in Touch
 
 Feel free to reach out or explore my projects!
