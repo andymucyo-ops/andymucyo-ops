@@ -11,7 +11,7 @@
 
 ## 💻 Most Used Languages
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=andymucyo-ops)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=andymucyo-ops&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 ## 📫 Get in Touch
 
 Feel free to reach out or explore my projects!
