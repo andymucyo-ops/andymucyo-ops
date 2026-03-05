@@ -1,17 +1,13 @@
 # Hi there, I'm Andy 👋
 
-## About Me
+I'm a Master's student in **Bioinformatics & Computational Biology** at the University of Fribourg & University of Bern, Switzerland, with a background in **Biochemistry** from the University of Geneva.
 
-🎓 **Education**
-- Currently pursuing MSc in Bioinformatics & Computational Biology  
-  *University of Fribourg & University of Bern, Switzerland*
-  
-- BSc in Biochemistry
-  *University of Geneva, Switzerland*
+Alongside my studies, I'm actively building software engineering skills through the [boot.dev](https://boot.dev) back-end developer path, working through **Python and Go**.
 
-## 💻 Most Used Languages
+---
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=andymucyo-ops&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
-## 📫 Get in Touch
 
-Feel free to reach out or explore my projects!
+---
+
+Feel free to explore my projects or reach out!
