@@ -6,8 +6,4 @@ Alongside my studies, I'm actively building software engineering skills through 
 
 ---
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=andymucyo-ops&layout=compact&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
-
----
-
 Feel free to explore my projects or reach out!
