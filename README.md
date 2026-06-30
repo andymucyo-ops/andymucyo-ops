@@ -4,7 +4,7 @@ I'm a Master's student in **Bioinformatics & Computational Biology** at the Univ
 
 Alongside my studies, I'm actively building software engineering skills
 through the [boot.dev](https://boot.dev) back-end developer path — currently
-focused on **Python**, with **Go** coming further down the road.
+focused on **Python**, and **Go**.
 
 ---
 
